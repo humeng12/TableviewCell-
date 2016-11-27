@@ -15,6 +15,21 @@
 		6B0AD7281DEAB72D00B7CBCF /* UITabviewCell_optimization_UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B0AD7271DEAB72D00B7CBCF /* UITabviewCell_optimization_UITests.m */; };
 		6B0AD73D1DEAB79200B7CBCF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B0AD7371DEAB79200B7CBCF /* ViewController.m */; };
 		6B0AD73E1DEAB79200B7CBCF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B0AD73B1DEAB79200B7CBCF /* AppDelegate.m */; };
+		6B0AD7431DEAB8CF00B7CBCF /* MJStatus.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B0AD7401DEAB8CF00B7CBCF /* MJStatus.m */; };
+		6B0AD7441DEAB8CF00B7CBCF /* MJStatusFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B0AD7421DEAB8CF00B7CBCF /* MJStatusFrame.m */; };
+		6B0AD7471DEAB8E600B7CBCF /* MJStatusCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B0AD7461DEAB8E600B7CBCF /* MJStatusCell.m */; };
+		6BCE58EC1DEAB94C0017B453 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58E01DEAB94C0017B453 /* 1.jpeg */; };
+		6BCE58ED1DEAB94C0017B453 /* 1516159990.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58E11DEAB94C0017B453 /* 1516159990.jpeg */; };
+		6BCE58EE1DEAB94C0017B453 /* 238221586.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58E21DEAB94C0017B453 /* 238221586.jpeg */; };
+		6BCE58EF1DEAB94C0017B453 /* 424324.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58E31DEAB94C0017B453 /* 424324.jpeg */; };
+		6BCE58F01DEAB94C0017B453 /* 50.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58E41DEAB94C0017B453 /* 50.jpeg */; };
+		6BCE58F11DEAB94C0017B453 /* 7735164184.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58E51DEAB94C0017B453 /* 7735164184.jpeg */; };
+		6BCE58F21DEAB94C0017B453 /* 3461756566.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58E71DEAB94C0017B453 /* 3461756566.jpeg */; };
+		6BCE58F31DEAB94C0017B453 /* 4934348604.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58E81DEAB94C0017B453 /* 4934348604.jpeg */; };
+		6BCE58F41DEAB94C0017B453 /* 603564546.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58E91DEAB94C0017B453 /* 603564546.jpeg */; };
+		6BCE58F51DEAB94C0017B453 /* 6289891986.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58EA1DEAB94C0017B453 /* 6289891986.jpeg */; };
+		6BCE58F61DEAB94C0017B453 /* 926680527.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58EB1DEAB94C0017B453 /* 926680527.jpeg */; };
+		6BCE58F81DEAB9610017B453 /* statuses.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6BCE58F71DEAB9610017B453 /* statuses.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +66,24 @@
 		6B0AD7371DEAB79200B7CBCF /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		6B0AD73A1DEAB79200B7CBCF /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6B0AD73B1DEAB79200B7CBCF /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		6B0AD73F1DEAB8CF00B7CBCF /* MJStatus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJStatus.h; sourceTree = "<group>"; };
+		6B0AD7401DEAB8CF00B7CBCF /* MJStatus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJStatus.m; sourceTree = "<group>"; };
+		6B0AD7411DEAB8CF00B7CBCF /* MJStatusFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJStatusFrame.h; sourceTree = "<group>"; };
+		6B0AD7421DEAB8CF00B7CBCF /* MJStatusFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJStatusFrame.m; sourceTree = "<group>"; };
+		6B0AD7451DEAB8E600B7CBCF /* MJStatusCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJStatusCell.h; sourceTree = "<group>"; };
+		6B0AD7461DEAB8E600B7CBCF /* MJStatusCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJStatusCell.m; sourceTree = "<group>"; };
+		6BCE58E01DEAB94C0017B453 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		6BCE58E11DEAB94C0017B453 /* 1516159990.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1516159990.jpeg; sourceTree = "<group>"; };
+		6BCE58E21DEAB94C0017B453 /* 238221586.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 238221586.jpeg; sourceTree = "<group>"; };
+		6BCE58E31DEAB94C0017B453 /* 424324.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 424324.jpeg; sourceTree = "<group>"; };
+		6BCE58E41DEAB94C0017B453 /* 50.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 50.jpeg; sourceTree = "<group>"; };
+		6BCE58E51DEAB94C0017B453 /* 7735164184.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7735164184.jpeg; sourceTree = "<group>"; };
+		6BCE58E71DEAB94C0017B453 /* 3461756566.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3461756566.jpeg; sourceTree = "<group>"; };
+		6BCE58E81DEAB94C0017B453 /* 4934348604.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4934348604.jpeg; sourceTree = "<group>"; };
+		6BCE58E91DEAB94C0017B453 /* 603564546.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 603564546.jpeg; sourceTree = "<group>"; };
+		6BCE58EA1DEAB94C0017B453 /* 6289891986.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6289891986.jpeg; sourceTree = "<group>"; };
+		6BCE58EB1DEAB94C0017B453 /* 926680527.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 926680527.jpeg; sourceTree = "<group>"; };
+		6BCE58F71DEAB9610017B453 /* statuses.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = statuses.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +150,7 @@
 		6B0AD7021DEAB72D00B7CBCF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6BCE58F71DEAB9610017B453 /* statuses.plist */,
 				6B0AD7031DEAB72D00B7CBCF /* main.m */,
 			);
 			name = "Supporting Files";
@@ -152,6 +186,10 @@
 		6B0AD7381DEAB79200B7CBCF /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				6B0AD73F1DEAB8CF00B7CBCF /* MJStatus.h */,
+				6B0AD7401DEAB8CF00B7CBCF /* MJStatus.m */,
+				6B0AD7411DEAB8CF00B7CBCF /* MJStatusFrame.h */,
+				6B0AD7421DEAB8CF00B7CBCF /* MJStatusFrame.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -159,6 +197,8 @@
 		6B0AD7391DEAB79200B7CBCF /* Other */ = {
 			isa = PBXGroup;
 			children = (
+				6BCE58DF1DEAB94C0017B453 /* icon */,
+				6BCE58E61DEAB94C0017B453 /* image */,
 				6B0AD73A1DEAB79200B7CBCF /* AppDelegate.h */,
 				6B0AD73B1DEAB79200B7CBCF /* AppDelegate.m */,
 			);
@@ -168,8 +208,35 @@
 		6B0AD73C1DEAB79200B7CBCF /* View */ = {
 			isa = PBXGroup;
 			children = (
+				6B0AD7451DEAB8E600B7CBCF /* MJStatusCell.h */,
+				6B0AD7461DEAB8E600B7CBCF /* MJStatusCell.m */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		6BCE58DF1DEAB94C0017B453 /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				6BCE58E01DEAB94C0017B453 /* 1.jpeg */,
+				6BCE58E11DEAB94C0017B453 /* 1516159990.jpeg */,
+				6BCE58E21DEAB94C0017B453 /* 238221586.jpeg */,
+				6BCE58E31DEAB94C0017B453 /* 424324.jpeg */,
+				6BCE58E41DEAB94C0017B453 /* 50.jpeg */,
+				6BCE58E51DEAB94C0017B453 /* 7735164184.jpeg */,
+			);
+			path = icon;
+			sourceTree = "<group>";
+		};
+		6BCE58E61DEAB94C0017B453 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				6BCE58E71DEAB94C0017B453 /* 3461756566.jpeg */,
+				6BCE58E81DEAB94C0017B453 /* 4934348604.jpeg */,
+				6BCE58E91DEAB94C0017B453 /* 603564546.jpeg */,
+				6BCE58EA1DEAB94C0017B453 /* 6289891986.jpeg */,
+				6BCE58EB1DEAB94C0017B453 /* 926680527.jpeg */,
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -279,9 +346,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BCE58F01DEAB94C0017B453 /* 50.jpeg in Resources */,
+				6BCE58EF1DEAB94C0017B453 /* 424324.jpeg in Resources */,
+				6BCE58F81DEAB9610017B453 /* statuses.plist in Resources */,
+				6BCE58F31DEAB94C0017B453 /* 4934348604.jpeg in Resources */,
+				6BCE58F51DEAB94C0017B453 /* 6289891986.jpeg in Resources */,
 				6B0AD7121DEAB72D00B7CBCF /* LaunchScreen.storyboard in Resources */,
+				6BCE58F61DEAB94C0017B453 /* 926680527.jpeg in Resources */,
+				6BCE58EE1DEAB94C0017B453 /* 238221586.jpeg in Resources */,
 				6B0AD70F1DEAB72D00B7CBCF /* Assets.xcassets in Resources */,
+				6BCE58F11DEAB94C0017B453 /* 7735164184.jpeg in Resources */,
+				6BCE58F21DEAB94C0017B453 /* 3461756566.jpeg in Resources */,
 				6B0AD70D1DEAB72D00B7CBCF /* Main.storyboard in Resources */,
+				6BCE58F41DEAB94C0017B453 /* 603564546.jpeg in Resources */,
+				6BCE58ED1DEAB94C0017B453 /* 1516159990.jpeg in Resources */,
+				6BCE58EC1DEAB94C0017B453 /* 1.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,9 +385,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B0AD7431DEAB8CF00B7CBCF /* MJStatus.m in Sources */,
 				6B0AD73D1DEAB79200B7CBCF /* ViewController.m in Sources */,
+				6B0AD7471DEAB8E600B7CBCF /* MJStatusCell.m in Sources */,
 				6B0AD7041DEAB72D00B7CBCF /* main.m in Sources */,
 				6B0AD73E1DEAB79200B7CBCF /* AppDelegate.m in Sources */,
+				6B0AD7441DEAB8CF00B7CBCF /* MJStatusFrame.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -544,6 +626,7 @@
 				6B0AD72E1DEAB72E00B7CBCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B0AD72F1DEAB72E00B7CBCF /* Build configuration list for PBXNativeTarget "UITabviewCell(optimization)Tests" */ = {
 			isa = XCConfigurationList;
@@ -552,6 +635,7 @@
 				6B0AD7311DEAB72E00B7CBCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B0AD7321DEAB72E00B7CBCF /* Build configuration list for PBXNativeTarget "UITabviewCell(optimization)UITests" */ = {
 			isa = XCConfigurationList;
@@ -560,6 +644,7 @@
 				6B0AD7341DEAB72E00B7CBCF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
